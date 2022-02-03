@@ -1,0 +1,19 @@
+@font-face{
+  font-family: Vasia;
+  src:url("Ubuntu-Bold.ttf")
+}
+
+p{
+  font-family: Vasia;
+  font-size: 100px;
+}
+.hero-img{
+  background-image: url('wall.jpg');
+  padding: 100px;
+  background-size: cover;
+  border-radius: 0px 0px 300px 300px;
+}
+
+body{
+  margin: 0px;
+}
